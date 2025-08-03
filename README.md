@@ -26,6 +26,3 @@ Open Blogs is a full-stack web application that allows users to upload and share
 4. Start the server: `node server.js`
 5. Start the frontend: `npm run dev`
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards.
